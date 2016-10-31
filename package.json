@@ -1,5 +1,5 @@
 {
-  "name": "done-autorender",
+  "name": "steal-autorender",
   "version": "0.8.0",
   "description": "Autorender CanJS projects",
   "main": "autorender.js",
