@@ -43,6 +43,6 @@
     ]
   },
   "dependencies": {
-    "can-zone": "^0.6.0"
+    "can-zone": "^0.6.3"
   }
 }
