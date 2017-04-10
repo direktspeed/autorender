@@ -25,7 +25,7 @@
   "devDependencies": {
     "can": "^3.0.0",
     "jquery": ">=3.1.1",
-    "funcunit": "^3.0.0",
+    "funcunit": "^3.2.1",
     "lodash.template": "^4.4.0",
     "steal": "^0.16.41",
     "steal-qunit": "0.1.4",
