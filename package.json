@@ -29,7 +29,7 @@
     "lodash.template": "^4.4.0",
     "steal": "^0.16.41",
     "steal-qunit": "0.1.4",
-    "steal-tools": "^0.16.8",
+    "steal-tools": "^1.6.0",
     "testee": "^0.2.0"
   },
   "homepage": "https://github.com/donejs/autorender",
