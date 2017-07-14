@@ -3,6 +3,8 @@
 
 # done-autorender
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/direktspeed/steal-autorender.svg)](https://greenkeeper.io/)
+
 Automatically renders a template, either to the `<html>` or `<body>` elements.
 
 ## Install
